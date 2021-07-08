@@ -72356,15 +72356,15 @@ var FileUtils = /*#__PURE__*/function () {
 
 exports.FileUtils = FileUtils;
 },{}],"resources/illustration/girl.svg":[function(require,module,exports) {
-module.exports = "/girl.9fcd92b4.svg";
+module.exports = "/face-capture/girl.9fcd92b4.svg";
 },{}],"resources/illustration/boy.svg":[function(require,module,exports) {
-module.exports = "/boy.f9d3081d.svg";
+module.exports = "/face-capture/boy.f9d3081d.svg";
 },{}],"resources/illustration/abstract.svg":[function(require,module,exports) {
-module.exports = "/abstract.79dbaf95.svg";
+module.exports = "/face-capture/abstract.79dbaf95.svg";
 },{}],"resources/illustration/blathers.svg":[function(require,module,exports) {
-module.exports = "/blathers.7b2c76af.svg";
+module.exports = "/face-capture/blathers.7b2c76af.svg";
 },{}],"resources/illustration/tom-nook.svg":[function(require,module,exports) {
-module.exports = "/tom-nook.56425214.svg";
+module.exports = "/face-capture/tom-nook.56425214.svg";
 },{}],"camera.js":[function(require,module,exports) {
 "use strict";
 
